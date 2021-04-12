@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c930968.chunk.css",
+    "main.js": "/static/js/main.4efa5a47.chunk.js",
+    "main.js.map": "/static/js/main.4efa5a47.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc98bee1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc98bee1.js.map",
+    "static/css/2.fe359a49.chunk.css": "/static/css/2.fe359a49.chunk.css",
+    "static/js/2.a85388c2.chunk.js": "/static/js/2.a85388c2.chunk.js",
+    "static/js/2.a85388c2.chunk.js.map": "/static/js/2.a85388c2.chunk.js.map",
+    "static/js/3.fac3ac82.chunk.js": "/static/js/3.fac3ac82.chunk.js",
+    "static/js/3.fac3ac82.chunk.js.map": "/static/js/3.fac3ac82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2c930968.chunk.css.map": "/static/css/main.2c930968.chunk.css.map",
+    "static/js/2.a85388c2.chunk.js.LICENSE.txt": "/static/js/2.a85388c2.chunk.js.LICENSE.txt",
+    "static/media/brain.ec96f013.png": "/static/media/brain.ec96f013.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc98bee1.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.a85388c2.chunk.js",
+    "static/css/main.2c930968.chunk.css",
+    "static/js/main.4efa5a47.chunk.js"
+  ]
+}
